@@ -7,4 +7,4 @@
 ![Predicted_vs_actual](Predicted_vs_actual.png)
 
 ### Opening and closing stock prices of some companies.
-![Goldmann Sachs](Goldmann Sachs.png)
+![Goldmann_Sachs](Goldmann_Sachs.png)
