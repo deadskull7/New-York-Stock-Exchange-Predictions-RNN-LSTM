@@ -8,3 +8,4 @@
 
 ### Opening and closing stock prices of some companies.
 ![Goldmann_Sachs](Goldmann_Sachs.png)
+![Xerox](Xerox.png)
